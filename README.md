@@ -1,5 +1,30 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">   
+
+  <title>My Basic HTML Page</title>
+</head>
+<body>
+  <header>
+    <h1>Welcome to   
+ My Page</h1>
+  </header>
+  <main>
+    <p>This is the main content of my page.</p>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+    <img src="image1.jpg" alt="Image 1">
+    <img src="image2.png" alt="Image 2">
+    <img src="image3.gif" alt="Image 3">
+    <p>Visit <a href="https://www.example.com">Example Website</a> for more information.</p>
+  </main>
+  <footer>
+    &copy; 2024 My Website
+  </footer>
+</body>
+</html>
