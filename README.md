@@ -18,7 +18,7 @@
       <li>Item 2</li>
       <li>Item 3</li>
     </ul>
-    <img src="image1.jpg" alt="Image 1">
+    <img src="[image1.jpg](https://www.hdwallpaper.nu/wp-content/uploads/2015/02/Funny-Cat-Hidden.jpg)" alt="Image 1">
     <img src="image2.png" alt="Image 2">
     <img src="image3.gif" alt="Image 3">
     <p>Visit <a href="https://www.example.com">Example Website</a> for more information.</p>
